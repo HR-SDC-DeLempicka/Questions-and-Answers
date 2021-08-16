@@ -1,3 +1,5 @@
 node_modules
 db_setup
 config.js
+newrelic.js
+newrelic_agent.log

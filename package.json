@@ -23,9 +23,11 @@
     "postgres": "^1.0.2"
   },
   "devDependencies": {
+    "compression": "^1.7.4",
     "eslint": "^7.32.0",
     "jest": "^27.0.6",
     "morgan": "^1.10.0",
+    "newrelic": "^8.1.0",
     "nodemon": "^2.0.12",
     "supertest": "^6.1.5"
   }
