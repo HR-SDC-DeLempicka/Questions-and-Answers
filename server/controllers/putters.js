@@ -8,7 +8,7 @@ module.exports = {
         res.end();
       } else {
         res.statusCode = 200;
-        res.end();
+        res.end('Ok');
       }
     });
   },
@@ -20,7 +20,7 @@ module.exports = {
         res.end();
       } else {
         res.statusCode = 200;
-        res.end();
+        res.end('Ok');
       }
     });
   },
@@ -32,7 +32,7 @@ module.exports = {
         res.end();
       } else {
         res.statusCode = 200;
-        res.end();
+        res.end('Ok');
       }
     });
   },
@@ -44,7 +44,7 @@ module.exports = {
         res.end();
       } else {
         res.statusCode = 200;
-        res.end();
+        res.end('Ok');
       }
     });
   }

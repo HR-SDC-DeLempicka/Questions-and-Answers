@@ -7,6 +7,7 @@ const morgan = require('morgan');
 
 app.use(express.json());
 // app.use(morgan('dev'));
+app.use(express.static('public'));
 app.use(compression());
 app.use('/api', router);
 
