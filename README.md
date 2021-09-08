@@ -27,3 +27,7 @@ I then used horizontal scaling efforts by spinning up 3 AWS server instances. I 
 
 #### Images
 1. k6 load testing for local database query speeds
+![k6 Testing](images/k6_W8_local_stress_test.png)
+
+2. Loader.io Cloud testing through multiple server instances
+![Loader.io Testing](images/LB_loader_io.png)
